@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyUrlApp", "TinyUrlApp\TinyUrlApp.csproj", "{86358C9C-3F8D-432A-BCA9-CBDE5D1E1C05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyUrlTest", "TinyUrlTest\TinyUrlTest.csproj", "{B3F1D2E5-7487-406D-871B-03E651CCFA4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86358C9C-3F8D-432A-BCA9-CBDE5D1E1C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86358C9C-3F8D-432A-BCA9-CBDE5D1E1C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86358C9C-3F8D-432A-BCA9-CBDE5D1E1C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86358C9C-3F8D-432A-BCA9-CBDE5D1E1C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F1D2E5-7487-406D-871B-03E651CCFA4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F1D2E5-7487-406D-871B-03E651CCFA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F1D2E5-7487-406D-871B-03E651CCFA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F1D2E5-7487-406D-871B-03E651CCFA4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29A43724-A62A-4716-BC6F-0314BA91FCF8}
+	EndGlobalSection
+EndGlobal
